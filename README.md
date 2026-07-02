@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Juan%20ap.%20zaghi.png" alt="Banner">
+  <img src="Juan%20ap%20zaghi.png" alt="Banner">
 </p>
 
 <h2 align="center">
