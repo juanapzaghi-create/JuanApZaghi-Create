@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="Juan%20ap.%20zaghi.png" alt="Banner do Perfil" width="100%">
+  <img src="Juan%20ap.%20zaghi.png" alt="Banner" />
 </p>
-
-<br>
 
 # Olá! 👋 Eu sou Juan Aparecido Zaghi
 
