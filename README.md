@@ -30,7 +30,7 @@ I'm a Software Developer focused on building modern solutions for businesses.
 
 I have experience developing REST APIs, web applications, Android applications and relational databases.
 
-Currently I'm developing a complete workshop management system and an Electronic Invoice (NF-e) microservice.
+Currently developing a workshop management system and an Electronic Invoice (NF-e) microservice.
 
 ---
 
