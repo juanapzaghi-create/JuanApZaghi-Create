@@ -2,6 +2,14 @@
   <img src="Juan%20ap.%20zaghi.png" alt="Banner" />
 </p>
 
+<p align="center">
+  <img src="Juan%20ap.%20zaghi.png" alt="Banner" />
+</p>
+
+<p align="center">
+  <i>Transforming ideas into digital solutions.</i>
+</p>
+
 # Olá! 👋 Eu sou Juan Aparecido Zaghi
 
 🎓 Estudante do último semestre de Análise e Desenvolvimento de Sistemas.
