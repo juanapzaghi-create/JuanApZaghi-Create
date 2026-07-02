@@ -36,4 +36,4 @@ Atualmente atuo como desenvolvedor autônomo desenvolvendo sistemas sob medida p
 
 📧 Email: **juanapzaghi@gmail.com**
 
-💼 LinkedIn: *[(Adicionar posteriormente)](https://www.linkedin.com/in/juan-zaghi-80a4562b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
+💼 LinkedIn: *[(Juan Zaghi)](https://www.linkedin.com/in/juan-zaghi-80a4562b6?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
