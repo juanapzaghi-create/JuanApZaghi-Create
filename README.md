@@ -1,11 +1,18 @@
 <p align="center">
-  <img src="Juan%20ap.%20zaghi.png" alt="Banner" />
+  <img src="Juan%20ap.%20zaghi.png" alt="Banner"/>
 </p>
 
+<h2 align="center">
+Software Developer
+</h2>
 
 <h3 align="center">
 Turning ideas into innovative digital solutions.
 </h3>
+
+<p align="center">
+🚀 FastAPI • Laravel • Kotlin • Android • MySQL
+</p>
 
 <br>
 
