@@ -7,7 +7,7 @@ Software Developer
 </h2>
 
 <h3 align="center">
-Turning ideas into innovative digital solutions.
+  <i>Turning ideas into innovative digital solutions.</i>
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ Turning ideas into innovative digital solutions.
 
 <br>
 
-# Olá! 👋 Eu sou Juan Aparecido Zaghi
+# Hello! 👋 I'm Juan Aparecido Zaghi
 
 💻 Software Developer
 
