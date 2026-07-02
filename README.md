@@ -22,6 +22,9 @@ Atualmente atuo como desenvolvedor autônomo desenvolvendo sistemas sob medida p
 ---
 
 ## 💻 Tecnologias
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,kotlin,java,mysql,sqlite,git,github,vscode,androidstudio,firebase,docker&theme=dark"/>
+</p>
 
 ### Linguagens
 
