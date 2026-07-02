@@ -2,27 +2,28 @@
   <img src="Juan%20ap.%20zaghi.png" alt="Banner" />
 </p>
 
+
 <h3 align="center">
-<h3 align="center">
-  <em>Turning ideas into innovative digital solutions</em>
+Turning ideas into innovative digital solutions.
 </h3>
+
+<br>
 
 # Olá! 👋 Eu sou Juan Aparecido Zaghi
 
-🎓 Estudante do último semestre de Análise e Desenvolvimento de Sistemas.
+💻 Software Developer
 
-💻 Desenvolvedor de Software apaixonado por criar soluções que unem tecnologia e inovação.
+🎓 Final-year Systems Analysis and Development Student
 
-Atualmente atuo como desenvolvedor autônomo desenvolvendo sistemas sob medida para empresas.
+🚀 Passionate about building scalable software solutions.
 
 ---
 
-## 🚀 Atualmente estou desenvolvendo
+Sou desenvolvedor de software focado em criar soluções modernas para empresas.
 
-- 🚗 Sistema de Gestão para Oficina Mecânica 
-- 📄 Microserviço de Emissão de Nota Fiscal Eletrônica 
-- 🌐 APIs REST com FastAPI
-- 📱 Aplicações Android
+Tenho experiência com desenvolvimento de APIs REST, sistemas web, aplicações Android e banco de dados.
+
+Atualmente desenvolvo um sistema completo de gestão para oficinas mecânicas e um microserviço para emissão de Nota Fiscal Eletrônica (NF-e).
 
 ---
 
