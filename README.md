@@ -50,8 +50,9 @@ Currently developing a workshop management system and an Electronic Invoice (NF-
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juanapzaghi-create&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanapzaghi-create&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juanapzaghi-create&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanapzaghi-create&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ## 📫 Contato
