@@ -48,10 +48,15 @@ Currently developing a workshop management system and an Electronic Invoice (NF-
 <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,kotlin,java,mysql,sqlite,git,github,vscode,androidstudio,firebase,docker&theme=dark"/>
 </p>
 
-## 📊 Estatísticas
+---
+
+## 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanapzaghi-create&theme=tokyo-night"/>
 </p>
+
+---
+
 ## 📫 Contato
 
 📧 Email: **juanapzaghi@gmail.com**
