@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Juan%20ap.%20zaghi.png" alt="Banner do Perfil" width="100%">
+</p>
+
+<br>
+
 # Olá! 👋 Eu sou Juan Aparecido Zaghi
 
 🎓 Estudante do último semestre de Análise e Desenvolvimento de Sistemas.
