@@ -3,7 +3,8 @@
 </p>
 
 <h3 align="center">
-  <i>Turning ideas into innovative digital solutions.</i>
+<h3 align="center">
+  💡 <em>Turning ideas into innovative digital solutions.</em>
 </h3>
 
 # Olá! 👋 Eu sou Juan Aparecido Zaghi
