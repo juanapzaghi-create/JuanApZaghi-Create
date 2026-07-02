@@ -2,9 +2,9 @@
   <img src="Juan%20ap.%20zaghi.png" alt="Banner" />
 </p>
 
-<p align="center">
-  <i>Transforming ideas into digital solutions.</i>
-</p>
+<h3 align="center">
+  <i>Turning ideas into innovative digital solutions.</i>
+</h3>
 
 # Olá! 👋 Eu sou Juan Aparecido Zaghi
 
