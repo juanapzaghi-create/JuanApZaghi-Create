@@ -26,6 +26,12 @@ Atualmente atuo como desenvolvedor autônomo desenvolvendo sistemas sob medida p
 <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,kotlin,java,mysql,sqlite,git,github,vscode,androidstudio,firebase,docker&theme=dark"/>
 </p>
 
+## 📊 Estatísticas
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=juanapzaghi-create&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanapzaghi-create&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 📫 Contato
 
