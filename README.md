@@ -34,6 +34,15 @@ Currently I'm developing a complete workshop management system and an Electronic
 
 ---
 
+## 🚀 Currently Working On
+
+- 🚗 UrbanFix — Workshop Management System
+- 📄 NF-e Microservice
+- 📱 Android Applications
+- 🌐 REST APIs with FastAPI
+  
+---
+
 ## 💻 Tecnologias
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,kotlin,java,mysql,sqlite,git,github,vscode,androidstudio,firebase,docker&theme=dark"/>
