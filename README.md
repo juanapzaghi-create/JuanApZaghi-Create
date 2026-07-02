@@ -18,11 +18,11 @@ Software Developer
 
 # Hello! 👋 I'm Juan Aparecido Zaghi
 
-💻 Software Developer
+Software Developer
 
-🎓 Final-year Systems Analysis and Development Student
+Final-year Systems Analysis and Development Student
 
-🚀 Passionate about building scalable software solutions.
+Passionate about building scalable software solutions.
 
 ---
 
