@@ -1,16 +1,58 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Juan Aparecido Zaghi
 
-<!--
-**juanapzaghi-create/JuanApZaghi-Create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do último semestre de Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+💻 Desenvolvedor de Software apaixonado por criar soluções que unem tecnologia e inovação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente atuo como desenvolvedor autônomo desenvolvendo sistemas sob medida para empresas.
+
+---
+
+## 🚀 Atualmente estou desenvolvendo
+
+- 🚗 Sistema de Gestão para Oficina Mecânica 
+- 📄 Microserviço de Emissão de Nota Fiscal Eletrônica 
+- 🌐 APIs REST com FastAPI
+- 📱 Aplicações Android
+
+---
+
+## 💻 Tecnologias
+
+### Linguagens
+
+- Python
+- PHP
+- Java
+- Kotlin
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+### Frameworks
+
+- FastAPI
+- Laravel
+- Android Studio
+
+### Banco de Dados
+
+- MySQL
+- SQLite
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Firebase
+
+---
+
+## 📫 Contato
+
+📧 Email: **juanapzaghi@gmail.com**
+
+💼 LinkedIn: *(Adicionar posteriormente)*
