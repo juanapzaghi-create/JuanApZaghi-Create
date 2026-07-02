@@ -26,11 +26,11 @@ Software Developer
 
 ---
 
-Sou desenvolvedor de software focado em criar soluções modernas para empresas.
+I'm a Software Developer focused on building modern solutions for businesses.
 
-Tenho experiência com desenvolvimento de APIs REST, sistemas web, aplicações Android e banco de dados.
+I have experience developing REST APIs, web applications, Android applications and relational databases.
 
-Atualmente desenvolvo um sistema completo de gestão para oficinas mecânicas e um microserviço para emissão de Nota Fiscal Eletrônica (NF-e).
+Currently I'm developing a complete workshop management system and an Electronic Invoice (NF-e) microservice.
 
 ---
 
