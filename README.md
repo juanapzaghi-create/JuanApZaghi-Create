@@ -28,9 +28,8 @@ Atualmente atuo como desenvolvedor autônomo desenvolvendo sistemas sob medida p
 
 ## 📊 Estatísticas
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=juanapzaghi-create&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanapzaghi-create&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juanapzaghi-create&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanapzaghi-create&layout=compact&theme=tokyonight" />
 </p>
 
 ## 📫 Contato
