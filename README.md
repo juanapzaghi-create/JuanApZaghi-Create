@@ -7,7 +7,7 @@ Software Developer
 </h2>
 
 <h3 align="center">
-  <i>Turning ideas into innovative digital solutions.</i>
+  <i>Building software that solves real-world problems</i>
 </h3>
 
 <p align="center">
